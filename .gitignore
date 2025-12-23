@@ -1,0 +1,19 @@
+# Virtual environments and libraries
+libs/
+myenv/
+venv/
+env/
+.env
+
+# Python compilation
+__pycache__/
+*.pyc
+
+# Large model files
+*.h5
+*.keras
+*.savedmodel
+
+# IDE settings
+.vscode/
+.idea/
